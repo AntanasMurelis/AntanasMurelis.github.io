@@ -25,22 +25,21 @@ The first wave of COVID-19 infections led to widespread stories of shortages in 
     <style>
         .image-container {
             display: flex; /* Use flexbox for layout */
-            align-items: flex-start; /* Align items to the start of the container */
+            justify-content: center; /* Center the images horizontally */
+            align-items: center; /* Center the images vertically */
+            width: 100%; /* Container takes full width of the page */
         }
-        .left-image {
-            height: 50%; /* Take full height of the container */
-            width: 65%; /* Width is set to auto to maintain aspect ratio */
-        }
-        .right-image {
-            height: 100%; /* Take full height of the container */
-            width: auto; /* Width is set to auto to maintain aspect ratio */
+        .image-container img {
+            width: 50%; /* Each image takes up half the width of the container */
+            height: auto; /* Height is set to auto to maintain aspect ratio */
+            margin: 10px; /* Optional: Adds some space between the images */
         }
     </style>
 </head>
 <body>
     <div class="image-container">
-        <img class="left-image" src="images/SentimentAnalysis.png?raw=true" alt="Meshes Group" />
-        <img class="right-image" src="images/sentiment_map.gif?raw=true" alt="Sentiment Map" />
+        <img src="images/SentimentAnalysis.png?raw=true" alt="Sentiment Analysis" />
+        <img src="images/sentiment_map.gif?raw=true" alt="Sentiment Map" />
     </div>
 </body>
 </html>
