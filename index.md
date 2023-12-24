@@ -50,8 +50,8 @@ The first wave of COVID-19 infections led to widespread stories of shortages in 
 </html> -->
 
 <div style="display: flex; justify-content: center; align-items: center;">
-    <img src="images/SentimentAnalysis.png?raw=true" style="width: 40%; height: auto; margin: 10px;" alt="Sentiment Analysis" />
-    <img src="images/sentiment_map.gif?raw=true" style="width: 60%; height: auto; margin: 10px;" alt="Sentiment Map" />
+    <img src="images/SentimentAnalysis.png?raw=true" style="width: 38.5%; height: auto; margin: 5px;" alt="Sentiment Analysis" />
+    <img src="images/sentiment_map.gif?raw=true" style="width: 60%; height: auto; margin: 5px;" alt="Sentiment Map" />
 </div>
 
 
