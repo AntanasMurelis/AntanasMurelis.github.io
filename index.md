@@ -5,13 +5,17 @@
 
 *ETH Zürich* 
 
-* Thesis @ *Learning & Adaptive systems Group ETH*: Experimental Design for non-linear dynamical systems
+* Thesis @ *Learning & Adaptive systems Group ETH*:
+  
+   Experimental Design for non-linear dynamical systems
 
 **Bachelor in Immunology**
 
 *Trinity College Dublin*
 
-* Thesis @ *Gardiner Cancer Immunology group*: Mechanism of action of TGF-β on Natural Killer cell metabolism
+* Thesis @ *Gardiner Cancer Immunology group*:
+  
+   Mechanism of action of TGF-β on Natural Killer cell metabolism
 
 ## Selected projects in data science, scientific computing and machine learning 
 ---
