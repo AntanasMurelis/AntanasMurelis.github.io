@@ -27,7 +27,12 @@ Deep learning has proven to be a great tool for finding more simple, often linea
 
 <img src="images/DynamicalSystem.png?raw=true"/>
 
-**Figure 2**: <sup> The left displays the non-linear 2-dimensional Van der Pol oscillator, a model often used in modelling of biological and engineering systems. The right shows its 3-dimensional linear representation obtained using deep learning. </sup>
+ 
+<span style="font-size: .5rem"> **Figure 2**: 
+The left displays the non-linear 2-dimensional Van der Pol oscillator, a model often used in modelling of biological and engineering systems. The right shows its 3-dimensional linear representation obtained using deep learning.
+</span>
+
+
 
 
 
