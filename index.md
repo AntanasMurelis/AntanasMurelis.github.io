@@ -27,7 +27,7 @@ Deep learning has proven to be a great tool for finding more simple, often linea
 
 <img src="images/DynamicalSystem.png?raw=true"/>
 
-**Figure 2**: The left displays the non-linear 2-dimensional Van derPol oscillator, a model often used in modelling of biological and engineering systems. The right shows its 3-dimensional linear representation obtained using deep learning.
+**Figure 2**: <sup> The left displays the non-linear 2-dimensional Van der Pol oscillator, a model often used in modelling of biological and engineering systems. The right shows its 3-dimensional linear representation obtained using deep learning. </sup>
 
 
 
@@ -40,7 +40,7 @@ View code on Github
 
 ### Experimental Design of Non-Linear Dynamical Systems
 
-Optimal experimental design (OED) is an area of statistics and computer science, that aims to allocate experimental resources in an optimal way according to some statistical criterion. Experimentation implies some underlying test or model, that is intended to investigate specific hypotheses or parameters within a given framework. The goal of OED is to structure these experiments in such a manner that they provide the maximum amount of information, improve estimation precision, or optimize some other aspect of the experimental process, while minimizing costs, time, or resource usage. In my master thesis we focus on optimal sampling of (non-linear) dynamical systems to best estimate system parameters.
+Optimal experimental design is an area of statistics and computer science, that aims to allocate experimental resources in an optimal way according to some statistical criterion. The general goal of optimal experimental design is to structure experiments in such a manner that they provide the maximum amount of information, improve estimation precision, or optimize some other aspect of the experimental process, while minimizing costs, time, or resource usage. In my thesis we develop a method to obtain sampling schemes for non-linear dynamical systems, to best identify system parameters. 
 
 
 <img src="images/ExperimentalDesign.png?raw=true"/>
