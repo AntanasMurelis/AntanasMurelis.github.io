@@ -86,7 +86,6 @@ A significant barrier to ML's adoption in many fields is the lack of interpretab
 
 [View code on Colab](https://colab.research.google.com/drive/1Msk1tmph1IQYom596vy3MmMwESID0KaW?usp=sharing)
 
-
 <!-- ### Transcriptomic prediction
 The web hosts vast quantities of data useful for research. In this project, I built a custom data collection pipeline using the Python library `scrapy` and a MongoDB cluster.
 
