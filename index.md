@@ -4,7 +4,7 @@ Hello! I'm Antanas, a student of computational biology at ETH Zurich, where I sp
 
 The master's program at ETH Zurich has developed my expertise at the intersection of computational biology, statistics, and computer science. It provided a solid theoretical foundation in statistical and machine learning, while also offering extensive practical experience with cutting-edge machine learning techniques. For instance, my thesis included developing a methodology for planning experiments, drawing from principles in classical optimal experimental design, dynamical systems theory and the innovative use of deep learning, allowing for more effective identification of system parameters in models based on dynamical systems. 
 
-For ones interested, here, I have an overview of my education and the projects I have been involved throughout the years.
+For ones interested, I have an overview of my education and the projects I have been involved throughout the years.
 
 ## Education
 ---
