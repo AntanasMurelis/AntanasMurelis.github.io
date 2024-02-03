@@ -1,3 +1,11 @@
+# Computational Biologist - Profile & Portfolio
+
+Hello! I'm Antanas, a student of computational biology at ETH Zurich, where I specialize in scientific computing, modelling and data science. My educational journey began with a foundation in classical molecular biology, equipping me with a deep understanding of biological systems at the molecular level. Transitioning to computational biology allowed me to leverage this background, applying quantitative analysis and computational techniques to solve complex biological problems.
+
+The master's program at ETH Zurich has developed my expertise at the intersection of computational biology, statistics, and computer science. It provided a solid theoretical foundation in statistical and machine learning, while also offering extensive practical experience with cutting-edge machine learning techniques. For instance, my thesis included developing a methodology for planning experiments, drawing from principles in classical optimal experimental design, dynamical systems theory and the innovative use of deep learning, allowing for more effective identification of system parameters in models based on dynamical systems. 
+
+For ones interested, here, I have an overview of my education and the projects I have been involved throughout the years.
+
 ## Education
 ---
 
