@@ -3,15 +3,13 @@
 
 **Master in Coputational Biology and Bioinformatics**
 
-*ETH Zürich* 
-
+*ETH Zürich*
 * Thesis @ *Learning & Adaptive systems Group ETH*:\
    Experimental Design for non-linear dynamical systems
 
 **Bachelor in Immunology**
 
-*Trinity College Dublin*
-
+*Trinity College Dublin* 
 * Thesis @ *Gardiner Cancer Immunology group*:\
    Mechanism of action of TGF-β on Natural Killer cell metabolism
 
@@ -88,7 +86,8 @@ The project aims to understand the sentiment and how people's opinions swayed du
 
 ### Interpretable machine learning: Prediction of Pneumonia from X-ray Images
 
-A significant barrier to ML's adoption in many fields is the lack of interpretability of black box models. In this project, I use several techniques to gain insights into various models. 
+A significant barrier to ML's adoption in many fields is the lack of interpretability of black box models. The project is focused on bringing interpretability to prediction using black-box models on development and prognosis of pneumonia accross several data modalities, inluding simple tabular data to images.
+
 <!-- 
 <img src="images/CNN_Intergrated_Gradient.png?raw=true" alt="Sentiment Map" width="25%" height="auto"/>
 <img src="images/agg_shap_importances.png?raw=true" alt="Sentiment Analysis" width="35%" height="auto"/>
@@ -97,6 +96,7 @@ A significant barrier to ML's adoption in many fields is the lack of interpretab
 
 <img src="images/IG_SHAP_NAM.png?raw=true"/>
 
+**Figure 5**: Various methods of interpretability for black-box models based on Deep Learning.
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/sklearn-white?logo=scikit-learn)](#) [![](https://img.shields.io/badge/LIME-white?logo=LIME)](#) [![](https://img.shields.io/badge/SHAP-white?logo=SHAP)](#)
 
