@@ -1,5 +1,19 @@
-## Selected projects in data science, scientific computing and machine learning 
+## Education
+---
 
+**Master in Coputational Biology and Bioinformatics**
+
+*ETH Zürich* 
+
+* Thesis: Experimental Design for non-linear dynammical systems
+
+**Bachelor in Immunology**
+
+*Trinity College Dublin*
+
+* Thesis: Mechanism of action of TGF-β on Natural Killer cell metabolism
+
+## Selected projects in data science, scientific computing and machine learning 
 ---
 
 ### Morphological analysis of epithelial lightsheet miscroscopy images
@@ -38,7 +52,7 @@ Deep learning has proven to be a great tool for finding more simple, often linea
 
 ### Experimental Design of Non-Linear Dynamical Systems
 
-Optimal experimental design is an area of statistics and computer science, that aims to allocate experimental resources in an optimal way according to some statistical criterion. The general goal of optimal experimental design is to structure experiments in such a manner that they provide the maximum amount of information, improve estimation precision, or optimize some other aspect of the experimental process, while minimizing costs, time, or resource usage. In my thesis we develop a method to obtain sampling schemes for non-linear dynamical systems, to best identify system parameters. 
+Optimal experimental design is an area of statistics and computer science, that aims to allocate experimental resources in an optimal way according to some statistical criterion. The practical goal of optimal experimental design is to structure experiments in such a manner that they provide the maximum amount of information, improve estimation precision, or optimize some other aspect of the experimental process, while minimizing costs, time, or resource usage. In my thesis we develop a method to obtain sampling schemes for non-linear dynamical systems, to best identify system parameters. 
 
 
 <img src="images/ExperimentalDesign.png?raw=true"/>
