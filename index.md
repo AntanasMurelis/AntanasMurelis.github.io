@@ -45,7 +45,7 @@ View code on Github
 
 ### Experimental Design of Non-Linear Dynamical Systems
 
-Experimental design revolves around investing resources in experiments, in an optimal way. 
+Optimal experimental design (OED) is an area of statistics and computer science, that aims to allocate experimental resources in an optimal way, according to some statistical criterion. Experimentation implies some underlying test or model, that is intended to investigate specific hypotheses or parameters within a given framework. The goal of OED is to structure these experiments in such a manner that they provide the maximum amount of information, improve estimation precision, or optimize some other aspect of the experimental process, while minimizing costs, time, or resource usage. In my thesis we focus on optimal sampling of (non-linear) dynamical systems to best estimate parameters of the system.
 
 
 <img src="images/ExperimentalDesign.png?raw=true"/>
