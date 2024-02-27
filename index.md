@@ -19,7 +19,7 @@ For ones interested, I have an overview of my education and the projects I have 
    Mechanism of action of TGF-β on Natural Killer cell metabolism
 
 ## Selected projects in data science, scientific computing and machine learning 
-
+---
 ### Morphological analysis of epithelial lightsheet miscroscopy images
 *Computational Biology Lab @ ETH Zürich*
 
