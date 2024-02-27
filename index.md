@@ -1,6 +1,6 @@
 # Computational Biologist - Profile & Portfolio
 
-Hello! I'm Antanas, a student of computational biology at ETH Zurich, where I specialize in scientific computing, modelling and data science. My educational journey began with a foundation in classical molecular biology, equipping me with a deep understanding of biological systems at cellular and molecular level. Transitioning to computational biology allowed me to leverage this background, applying quantitative analysis and computational techniques to solve complex biological problems.
+Hello! I'm Antanas, a student of computational biology at ETH Zürich, where I specialize in scientific computing, modelling and data science. My educational journey began with a foundation in classical molecular biology, equipping me with a deep understanding of biological systems at cellular and molecular level. Transitioning to computational biology allowed me to leverage this background, applying quantitative analysis and computational techniques to solve complex biological problems.
 
 The master's program at ETH Zurich has developed my expertise at the intersection of computational biology, statistics, and computer science. It provided a solid theoretical foundation in statistical and machine learning, while also offering extensive practical experience with cutting-edge machine learning techniques. My Master thesis involved developing a methodology for planning experiments, drawing from principles in classical optimal experimental design, dynamical systems theory and the innovative use of deep learning, allowing for more effective identification of system parameters in models based on dynamical systems. 
 
@@ -23,7 +23,7 @@ For ones interested, I have an overview of my education and the projects I have 
 ### Morphological analysis of epithelial lightsheet miscroscopy images
 *Computational Biology Lab @ ETH Zürich*
 
-Epithelial cells cover the surfaces of organisms, and are the source of 90% of all cancers. Lightsheet miscrocopy allows to analyse the 3D structure of organs and epithelia. Here, I script algorithms to investigate morphological characterstics segmented epithelia images, and create meshes for simulations of epithelia cells at cell resolution level. DOI: 
+Epithelial cells cover the surfaces of organisms, and are the source of 90% of all cancers. Lightsheet miscrocopy allows to analyse the 3D structure of organs and epithelia. Here, I script algorithms to investigate morphological characterstics segmented epithelia images, and create meshes for simulations of epithelia cells at cell resolution level. DOI: http://dx.doi.org/10.1016/S2666-1683(23)01167-9
 
 <img src="images/Contact_Mesh.png?raw=true"/>
 
