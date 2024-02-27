@@ -23,7 +23,7 @@ For ones interested, I have an overview of my education and the projects I have 
 ### Morphological analysis of epithelial lightsheet miscroscopy images
 *Computational Biology Lab @ ETH Zürich*
 
-Epithelial cells cover the surfaces of organisms, and are the source of 90% of all cancers. Lightsheet miscrocopy allows to analyse the 3D structure of organs and epithelia. Here, I script algorithms to investigate morphological characterstics segmented epithelia images, and create meshes for simulations of epithelia cells at cell resolution level. DOI: http://dx.doi.org/10.1016/S2666-1683(23)01167-9
+Epithelial cells cover the surfaces of organisms, and are the source of 90% of all cancers. Lightsheet miscrocopy allows to analyse the 3D structure of organs and epithelia. Here, I script algorithms to investigate morphological characterstics segmented epithelia images, and create meshes for simulations of epithelia cells at cell resolution level. See @ [DOI](http://dx.doi.org/10.1016/S2666-1683(23)01167-9).
 
 <img src="images/Contact_Mesh.png?raw=true"/>
 
