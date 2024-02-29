@@ -8,8 +8,6 @@ The master's program at ETH Zurich has developed my expertise at the intersectio
 
 For ones interested, I have an overview of my education and the projects I have been involved throughout the years.
 
-
-
 ## Education
 ---
 
