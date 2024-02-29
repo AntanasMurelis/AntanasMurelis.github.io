@@ -1,10 +1,13 @@
 # Computational Biologist - Profile & Portfolio
 
-Hello! I'm Antanas, a student of computational biology at ETH Zürich, where I specialize in scientific computing, modelling and data science. My educational journey began with a foundation in classical molecular biology, equipping me with a deep understanding of biological systems at cellular and molecular level. Transitioning to computational biology allowed me to leverage this background, applying quantitative analysis and computational techniques to solve complex biological problems.
+<!-- Hello! I'm Antanas, a student of computational biology at ETH Zürich, where I specialize in scientific computing, modelling and data science. My educational journey began with a foundation in classical molecular biology, equipping me with a deep understanding of biological systems at cellular and molecular level. During my final years of my Bacherlors degree, I became excited about how can we leverage data to answer fundamental questions in biology. As a result, I decided to transition into the field of computatianal biology. This has brought me to ETH Zurich, where I have been training as a computationalist for the past 2.5 years. For ones interested, I have an overview of my education and the projects I have been involved throughout the years. -->
+
+Hello! I'm Antanas, a student of computational biology at ETH Zürich, where I specialize in scientific computing, modelling and data science. My educational journey began with a foundation in classical molecular biology, equipping me with a deep understanding of biological systems at cellular and molecular level. Transitioning to computational biology allowed me to leverage this background, applying quantitative analysis and computational techniques to solve complex biological problems. -->
 
 The master's program at ETH Zurich has developed my expertise at the intersection of computational biology, statistics, and computer science. It provided a solid theoretical foundation in statistical and machine learning, while also offering extensive practical experience with cutting-edge machine learning techniques. My Master thesis involved developing a methodology for planning experiments, drawing from principles in classical optimal experimental design, dynamical systems theory and the innovative use of deep learning, allowing for more effective identification of system parameters in models based on dynamical systems. 
 
 For ones interested, I have an overview of my education and the projects I have been involved throughout the years.
+
 
 ## Education
 ---
