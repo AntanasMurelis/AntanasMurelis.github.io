@@ -6,7 +6,7 @@ Hello! I'm Antanas, a student of computational biology at ETH Zürich, where I s
 
 <!-- This transition into computational biology has enabled me to combine my foundational knowledge in molecular biology with advanced computational strategies, enhancing my ability to address complex, multidisciplinary challenges. -->
 
-For ones interested, I have an overview of my education and the projects I have been involved throughout the years.
+For ones interested, I have an overview of my education and the projects I have been involved in throughout the years.
 
 ## Education
 ---
