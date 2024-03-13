@@ -2,7 +2,7 @@
 
 <!-- Hello! I'm Antanas, a student of computational biology at ETH Zürich, where I specialize in scientific computing, modelling and data science. My educational journey began with a foundation in classical molecular biology, equipping me with a deep understanding of biological systems at cellular and molecular level. During my final years of my Bacherlors degree, I became excited about how can we leverage data to answer fundamental questions in biology. As a result, I decided to transition into the field of computatianal biology. This has brought me to ETH Zurich, where I have been training as a computationalist for the past 2.5 years. For ones interested, I have an overview of my education and the projects I have been involved throughout the years. -->
 
-Hello! I'm Antanas, a student of computational biology at ETH Zürich, where I specialize in scientific computing, modelling and data science. My educational journey began with a foundation in classical molecular biology, equipping me with a deep understanding of a broad set of sciences, including chemistry, molecular biology, and biotechnology. Transitioning to computational biology allowed me to leverage this background, applying quantitative analysis and computational techniques to solve complex interdisciplinary problems.
+Hello! I'm Antanas, a student of computational biology at ETH Zürich, where I specialize in scientific computing, modelling and data science. My educational journey began with a foundation in a broad set of sciences, including chemistry, molecular biology, and biotechnology. Transitioning to computational biology allowed me to leverage this background, applying quantitative analysis and computational techniques to solve complex interdisciplinary problems.
 
 <!-- This transition into computational biology has enabled me to combine my foundational knowledge in molecular biology with advanced computational strategies, enhancing my ability to address complex, multidisciplinary challenges. -->
 
@@ -43,7 +43,7 @@ Epithelial cells cover the surfaces of organisms, and are the source of 90% of a
 
 ---
 
-### Thesis: Linear Experimental Design of Non-Linear Dynamical Systems 
+### Thesis: Linear Experimental Design for Non-Linear Dynamical Systems 
 *Learning and Adaptive Systems Lab @ ETH Zürich*
 
 
