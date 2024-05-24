@@ -16,11 +16,11 @@ For ones interested, I have an overview of my education and the projects I have 
 * Thesis @ *Learning & Adaptive systems Group*:\
    Experimental Design for non-linear dynamical systems
 
-**Bachelor in Immunology**\
+**Bachelor in General Science**\
 *Trinity College Dublin* 
 * Thesis @ *Gardiner Cancer Immunology group*:\
    Mechanism of action of TGF-β on Natural Killer cell metabolism
-
+   
 ## Selected projects in data science, scientific computing and machine learning 
 ---
 ### Morphological analysis of epithelial lightsheet miscroscopy images
@@ -72,7 +72,7 @@ iTabPFN is a Transformer designed to solve small classifiction tasks in tabular 
 
 **Figure 3**: The intra and intefeature attention architecture that leverages the column and row relationships in tabular data.
 
-[View project on GitHub](#)
+[View project on GitHub](https://github.com/AntanasMurelis/iTabPFN)
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/PyTorch%20-%20white%20?logo=PyTorch&color=white)](#) 
 
@@ -144,3 +144,4 @@ The web hosts vast quantities of data useful for research. In this project, I bu
 [View code on Github](https://github.com/mattschapman/mattschapman.github.io/tree/master/projects/mongodb_crawler/spiders)
 
 --- -->
+
